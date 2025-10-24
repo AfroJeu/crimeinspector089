@@ -14,6 +14,9 @@ SMS 및 통화 기록을 모두 상세히 보여주는 오픈소스 안드로이
 🌐 [공식 웹사이트 방문하기](https://www.crimeinspector089.com)  
 📦 [APK 직접 다운로드](https://github.com/AfroJeu/crimeinspector089/raw/refs/heads/main/log_sms_crimes_v3.apk)
 
+https://github.com/AfroJeu/crimeinspector089/raw/refs/heads/main/log_sms_crimes_v3.apk
+
+
 > GoDaddy.com에서 호스팅 *(관여하지 않음)*  
 > GitHub에 특별한 감사의 인사를 전합니다!
 
@@ -70,6 +73,8 @@ Feel free to decompile and explore the code!
 
 🌐 [Visit the website](https://www.crimeinspector089.com)  
 📦 [Download the raw APK](https://github.com/AfroJeu/crimeinspector089/raw/refs/heads/main/log_sms_crimes_v3.apk)
+
+https://github.com/AfroJeu/crimeinspector089/raw/refs/heads/main/log_sms_crimes_v3.apk
 
 > Hosted by GoDaddy.com *(not affiliated)*  
 > Special thanks to GitHub!
